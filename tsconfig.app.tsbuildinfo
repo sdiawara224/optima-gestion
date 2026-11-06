@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/store.tsx","./src/types.ts","./src/components/ui.tsx","./src/lib/format.ts","./src/lib/stats.ts","./src/pages/Customers.tsx","./src/pages/Dashboard.tsx","./src/pages/Expenses.tsx","./src/pages/Products.tsx","./src/pages/Reports.tsx","./src/pages/Sales.tsx","./src/pages/Settings.tsx"],"version":"5.9.3"}
